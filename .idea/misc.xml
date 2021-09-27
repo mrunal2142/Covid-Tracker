@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/background.xml" value="0.277734375" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/background2.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/backgrounf.xml" value="0.277734375" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/button_background.xml" value="0.3703125" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2338815789473684" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/drawable/tablayoutbackground.xml" value="0.2338815789473684" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/activity_news.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/activity_splash_screen.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/activity_stats.xml" value="0.33" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/activity_vaccine.xml" value="0.25027603974972396" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/fragment_cases.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/recyclerviewitems.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/layout/vaccinecentreitem.xml" value="0.5352839931153184" />
+        <entry key="..\:/Users/MRUNAL/AndroidStudioProjects/CovidTracker2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.277734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
